@@ -15,7 +15,7 @@ const UserPage = () => {
           <div className="profile-header">
             <div className="profile-avatar"></div>
             <div className="profile-info">
-              <h1>Welcome Back, Ocean Defender!</h1>
+              <h1>Welcome Back, Ram!</h1>
               <p>Thank you for protecting our marine ecosystems with Waves of Change</p>
             </div>
           </div>

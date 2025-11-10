@@ -473,11 +473,18 @@ const RegisterPage = () => {
               </label>
             </div>
 
-            <div className="form-actions">
-              <button type="submit" className="auth-btn primary">
+            <div className="form-actions" style={{display: 'flex', flexDirection: 'column', alignItems: 'center', gap:'1rem', marginTop:'1.5rem'}}>
+              <button type="submit" className="auth-btn primary"
+              style={{
+                padding: '0.8rem 2rem',
+                fontSize: '1rem ',
+                borderRadius:'8px',
+                cursor: 'pointer'
+              }}>
                 Submit Application
               </button>
-              <Link to="/login" className="auth-link back-link">
+              <Link to="/login" className="auth-link back-link" style={{fontSize: '0.9rem' , color: '#0077b6'
+              }}>
                 Already have an account? Sign in
               </Link>
             </div>
