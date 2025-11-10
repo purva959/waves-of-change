@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/waves-of-change/static/css/main.b6f271f7.css",
-    "main.js": "/waves-of-change/static/js/main.6e9428cb.js",
+    "main.js": "/waves-of-change/static/js/main.9301ed6d.js",
     "index.html": "/waves-of-change/index.html",
     "main.b6f271f7.css.map": "/waves-of-change/static/css/main.b6f271f7.css.map",
-    "main.6e9428cb.js.map": "/waves-of-change/static/js/main.6e9428cb.js.map"
+    "main.9301ed6d.js.map": "/waves-of-change/static/js/main.9301ed6d.js.map"
   },
   "entrypoints": [
     "static/css/main.b6f271f7.css",
-    "static/js/main.6e9428cb.js"
+    "static/js/main.9301ed6d.js"
   ]
 }
